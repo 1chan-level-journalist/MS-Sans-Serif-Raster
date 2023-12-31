@@ -1,4 +1,4 @@
-# MS-Sans-Serif-Raster
+# MS Sans Serif Raster
 A modern .otb conversion of the classic Windows font.
 
 This is a complete conversion of Microsoft's old "MS Sans Serif" font, introduced in Windows 1.0 and used all the way until Windows 2000, when vector Microsoft Sans Serif was introduced.
