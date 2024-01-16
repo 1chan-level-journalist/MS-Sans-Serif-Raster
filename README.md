@@ -6,6 +6,6 @@ In other words, this is a compilation of various localized versions of MS Sans S
 
 It supports the following codepages: the entire Windows-125x series (1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258) and also Windows-874. Which means the following scripts are supported: Latin, Cyrillic, Greek, Turkish, Hebrew, Arabic, Baltic, Vietnamese, Thai.
 
-IMPORTANT: if you're planning on using this font for Qt-based apps, please use the .pcf version. If you use the .otb version, some windows may be rendered super stretched-out.
+IMPORTANT: if you're planning on using this font for Qt-based apps, please use the PCF version. If you use the OTB version, some windows may be rendered super stretched-out.
 
 WARNING: As I currently don't have a way to test this font out on many different installs, some things may not look quite right - things such as letter spacing not being right for certain symbols, or some symbols themselves not looking right. If something doesn't look right, please mention it in the issues (and, above all else, send screenshots).
